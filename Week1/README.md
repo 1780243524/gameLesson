@@ -7,4 +7,4 @@
 
 ## 说明
 
-Source文件夹中位项目源码；Android_ASTC中保存了安卓apk文件。
+Source文件夹中保存了项目源码；Android_ASTC中保存了安卓apk文件。
