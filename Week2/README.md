@@ -70,7 +70,7 @@ Actor的Destory：GC完成收尾工作。
 1. ADefaultPawn：基础的Pawn，具有简单球形碰撞等功能。
 2. ASpectatorPawn：观战的Pawn，不会外显。
 
-### ACharactor
+### ACharacter
 
 人形角色。
 
